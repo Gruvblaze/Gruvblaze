@@ -5,9 +5,9 @@
 </div>
 
 <div align="center">
-  <h1>💥 Call Me Gruv, Cause It Rhymes With Grug! 💥</h1>
+<h1><strong><em>💥 Call Me Gruv, Cause It Rhymes With Grug! 💥</em></strong></h1>
   <p>
-  ❤️‍🔥 Currently working on iSkolar-OS | 🔥 Buzzer Beater | 🎓 Currently learning Python and Data Science | 📜 Portfolio in the Works
+  <strong>❤️‍🔥 Currently working on iSkolar-OS | 🔥 Buzzer Beater | 🎓 Currently learning Python and Data Science | 📜 Portfolio in the Works</strong>
   </p>
 </div>
 <br>
@@ -19,7 +19,7 @@
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox" alt="GitHub Quotes" />
 </div>
 
-<h1 data-importer="text" align="left">모 Tech Stack</h1>
+<h1 data-importer="text" align="left">💻 Tech Stack</h1>
 <h3 data-importer="text" align="left">⏻ Programming Languages</h3>
 <div data-importer="techs" align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="36" alt="html5 logo"  />
