@@ -7,7 +7,7 @@
 <div align="center">
   <h1><strong><em>💥 Call Me Gruv, Cause It Rhymes With Grug! 💥</em></strong></h1>
   <p>
-    <strong>❤️‍🔥 Currently working on iSkolar-OS | 🔥 Buzzer Beater | 🎓 Currently learning Python and Data Science | 📜 Portfolio in the Works</strong>
+    <strong>❤️‍🔥 Working on iSkolar-OS | 🔥 Buzzer Beater | 🎓 Learning Python and Data Science | 📜 Portfolio in the Works</strong>
   </p>
 </div>
 
