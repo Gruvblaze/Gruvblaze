@@ -27,23 +27,30 @@
 
 <div>
   <h1 data-importer="text" align="left">🕯 About Me</h1>
-  <img align="left" width="256" alt="Sprite1" src="https://github.com/user-attachments/assets/df2c29fe-a313-4139-a69e-1059df5329e6" style="margin-right: 20px;" />
-  
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&duration=1000&pause=1000&color=F78333&background=26000000&center=true&multiline=true&repeat=false&width=512&height=40&lines=Heya%2C+I%E2%80%99m+Gruv!" alt="Typing SVG" /></a><br>
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&duration=1000&pause=1000&color=FCCF44&background=26000000&center=true&multiline=true&repeat=false&width=512&height=40&lines=Welcome+to+my+Absolute+Territory!" alt="Typing SVG" /></a><br>
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&duration=1000&pause=1000&color=FFEE61&background=26000000&center=true&multiline=true&repeat=false&width=512&height=40&lines=%28%E0%B9%91%E2%80%A2%D8%8E%E2%80%A2%E0%B9%91%29" alt="Typing SVG" /></a><br>
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Pixelify+Sans&weight=500&duration=2000&pause=1000&color=850D02&background=FFFFD1&center=true&multiline=true&repeat=false&width=512&height=40&lines=Firsts+%26+Favorites" alt="Typing SVG" /></a><br>
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Pixelify+Sans&weight=500&duration=1000&pause=1000&color=850D02&background=F78333&center=true&multiline=true&repeat=false&width=512&height=40&lines=First+Game%3A+Fireboy+%26+Watergirl+on+Friv" alt="Typing SVG" /></a><br>
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Pixelify+Sans&weight=500&duration=1000&pause=1000&color=850D02&background=FBA63B&center=true&multiline=true&repeat=false&width=512&height=40&lines=Favorite+Game%3A+Super+Fancy+Pants+Adventure" alt="Typing SVG" /></a><br>
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Pixelify+Sans&weight=500&duration=1000&pause=1000&color=850D02&background=EF722D&center=true&multiline=true&repeat=false&width=512&height=40&lines=First+Programming+Language%3A+HTML+%2B+CSS" alt="Typing SVG" /></a><br>
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Pixelify+Sans&weight=500&duration=1000&pause=1000&color=850D02&background=FEC442&center=true&multiline=true&repeat=false&width=512&height=40&lines=Favorite+Programming+Language%3A+JS%2C+Scratch" alt="Typing SVG" /></a>
+<table align="center" border="0" cellpadding="0" cellspacing="0">
+    <tr>
+      <td width="256" align="center" valign="middle">
+        <img width="256" alt="Sprite1" src="https://github.com/user-attachments/assets/df2c29fe-a313-4139-a69e-1059df5329e6" />
+      </td>
+      <td align="center" valign="middle">
+        <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&duration=1000&pause=1000&color=F78333&background=26000000&center=true&multiline=true&repeat=false&width=450&height=35&lines=Heya%2C+I%E2%80%99m+Gruv!" alt="Typing SVG" /></a><br>
+        <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&duration=1000&pause=1000&color=FCCF44&background=26000000&center=true&multiline=true&repeat=false&width=450&height=35&lines=Welcome+to+my+Absolute+Territory!" alt="Typing SVG" /></a><br>
+        <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&duration=1000&pause=1000&color=FFEE61&background=26000000&center=true&multiline=true&repeat=false&width=450&height=35&lines=%28%E0%B9%91%E2%80%A2%D8%8E%E2%80%A2%E0%B9%91%29" alt="Typing SVG" /></a><br>
+        <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Pixelify+Sans&weight=500&duration=2000&pause=1000&color=850D02&background=FFFFD1&center=true&multiline=true&repeat=false&width=450&height=35&lines=Firsts+%26+Favorites!" alt="Typing SVG" /></a><br>
+        <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Pixelify+Sans&weight=500&duration=1000&pause=1000&color=850D02&background=F78333&center=true&multiline=true&repeat=false&width=450&height=35&lines=First+Game%3A+Fireboy+%26+Watergirl+on+Friv" alt="Typing SVG" /></a><br>
+        <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Pixelify+Sans&weight=500&duration=1000&pause=1000&color=850D02&background=FBA63B&center=true&multiline=true&repeat=false&width=450&height=35&lines=Favorite+Game%3A+Super+Fancy+Pants+Adventure" alt="Typing SVG" /></a><br>
+        <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Pixelify+Sans&weight=500&duration=1000&pause=1000&color=850D02&background=EF722D&center=true&multiline=true&repeat=false&width=450&height=35&lines=First+Programming+Language%3A+HTML+%2B+CSS" alt="Typing SVG" /></a><br>
+        <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Pixelify+Sans&weight=500&duration=1000&pause=1000&color=850D02&background=FEC442&center=true&multiline=true&repeat=false&width=450&height=35&lines=Favorite+Programming+Language%3A+JS%2C+Scratch" alt="Typing SVG" /></a>
+      </td>
+    </tr>
+  </table>
 </div>
 
 <br clear="all">
 
 <div>
   <h1 data-importer="text" align="left">🕯 Tech Stack</h1>
-  <img align="right" width="256" alt="Sprite2" src="https://github.com/user-attachments/assets/08848cfc-f2fb-473b-a66e-94b58bbf6721" style="margin-left: 20px;" />
+  <img align="right" width="512" alt="Sprite2" src="https://github.com/user-attachments/assets/08848cfc-f2fb-473b-a66e-94b58bbf6721" style="margin-left: 20px;" />
   
   <h3 data-importer="text" align="left">Devices I Use</h3>
   <div data-importer="techs" align="left">
